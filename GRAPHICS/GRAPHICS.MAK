@@ -1,0 +1,10 @@
+GRAPHICS.FRM
+C:\WINDOWS\SYSTEM\CMDIALOG.VBX
+C:\WINDOWS\SYSTEM\THREED.VBX
+RENAME.FRM
+ABOUTBOX.FRM
+ProjWinSize=80,604,196,128
+ProjWinShow=2
+IconForm="frmGraphics"
+Title="PrintMaster Graphics Manager"
+ExeName="GRAPHICS.EXE"

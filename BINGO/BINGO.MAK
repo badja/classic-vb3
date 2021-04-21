@@ -1,0 +1,8 @@
+BINGO.FRM
+C:\WINDOWS\SYSTEM\THREED.VBX
+ABOUTBOX.FRM
+ProjWinSize=80,604,196,118
+ProjWinShow=2
+IconForm="Bingo"
+Title="Bingo"
+ExeName="BINGO.EXE"

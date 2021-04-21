@@ -1,0 +1,9 @@
+CONTROLS.FRM
+C:\WINDOWS\SYSTEM\THREED.VBX
+GLOBAL.BAS
+VECTOR.FRM
+ProjWinSize=80,604,196,128
+ProjWinShow=2
+IconForm="frmVector"
+Title="3D Vectors"
+ExeName="VECTOR.EXE"

@@ -1,0 +1,9 @@
+MAIN.FRM
+C:\WINDOWS\SYSTEM\THREED.VBX
+MODULE1.BAS
+EDITFORM.FRM
+ProjWinSize=80,604,196,128
+ProjWinShow=2
+IconForm="Form1"
+Title="Rocket"
+ExeName="ROCKET.EXE"

@@ -1,0 +1,16 @@
+[OPTIONS]
+contents = CONTENTS_FOR_MASTER_MIND_HELP
+title = Master Mind Help
+compress = true
+warning = 3
+oldkeyphrase = false
+report = on
+
+[FILES]
+master.rtf
+
+[MAP]
+CONTENTS_FOR_MASTER_MIND_HELP 1
+STARTING_A_NEW_GAME 2
+PLAYING_THE_GAME 3
+AUTOPLACE 4

@@ -1,0 +1,17 @@
+[OPTIONS]
+contents = CONTENTS_FOR_MEMORY_HELP
+title = Memory Help
+compress = true
+warning = 3
+oldkeyphrase = false
+report = on
+
+[FILES]
+memory.rtf
+
+[MAP]
+CONTENTS_FOR_MEMORY_HELP 1
+WHAT_IS_MEMORY 2
+KEEPING_SCORE 3
+PLAYING_THE_GAME 4
+STARTING_A_NEW_GAME 5

@@ -1,0 +1,15 @@
+[OPTIONS]
+contents = CONTENTS_FOR_FLEET_HELP
+title = Fleet Help
+compress = true
+warning = 3
+oldkeyphrase = false
+report = on
+
+[FILES]
+fleet.rtf
+
+[MAP]
+CONTENTS_FOR_FLEET_HELP 1
+OBJECT 2
+HOW_TO_PLAY 3

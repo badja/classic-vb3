@@ -1,0 +1,9 @@
+WORDGAME.FRM
+MODULE1.BAS
+NEWGAME.FRM
+SOLVE.FRM
+ProjWinSize=80,604,196,128
+ProjWinShow=2
+IconForm="WordGame"
+Title="Word Game"
+ExeName="WORDGAME.EXE"

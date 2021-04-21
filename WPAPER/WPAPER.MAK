@@ -1,0 +1,10 @@
+WPAPER.FRM
+C:\WINDOWS\SYSTEM\THREED.VBX
+MODULE1.BAS
+LISTS.FRM
+ABOUTBOX.FRM
+ProjWinSize=80,604,196,128
+ProjWinShow=2
+IconForm="WPaper"
+Title="Wallpaper Manager"
+ExeName="WPAPER.EXE"

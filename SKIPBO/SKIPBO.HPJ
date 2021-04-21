@@ -1,0 +1,17 @@
+[OPTIONS]
+contents = CONTENTS_FOR_SKIPBO_HELP
+title = SKIP-BO Help
+compress = true
+warning = 3
+oldkeyphrase = false
+report = on
+
+[FILES]
+skipbo.rtf
+
+[MAP]
+CONTENTS_FOR_SKIPBO_HELP 1
+THE_SETUP 2
+PLAYING_THE_GAME 3
+SCORING_AND_WINNING 4
+STARTING_A_NEW_GAME 5
